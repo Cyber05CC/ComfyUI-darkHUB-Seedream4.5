@@ -26,9 +26,9 @@ dynamic = ["dependencies"]
 dependencies = { file = ["requirements.txt"] }
 
 [project.urls]
-Repository = "https://github.com/darken/ComfyUI-darkHUB-Seedream4.5"
-Documentation = "https://github.com/darken/ComfyUI-darkHUB-Seedream4.5#readme"
-"Bug Tracker" = "https://github.com/darken/ComfyUI-darkHUB-Seedream4.5/issues"
+Repository = "https://github.com/Cyber05CC/ComfyUI-darkHUB-Seedream4.5"
+Documentation = "https://github.com/Cyber05CC/ComfyUI-darkHUB-Seedream4.5#readme"
+"Bug Tracker" = "https://github.com/Cyber05CC/ComfyUI-darkHUB-Seedream4.5/issues"
 
 [tool.comfy]
 PublisherId = "darken"

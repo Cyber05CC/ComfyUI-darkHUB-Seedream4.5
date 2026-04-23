@@ -38,7 +38,7 @@ Clone or copy this folder into your ComfyUI `custom_nodes` directory:
 
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/darken/ComfyUI-darkHUB-Seedream4.5.git
+git clone https://github.com/Cyber05CC/ComfyUI-darkHUB-Seedream4.5.git
 ```
 
 Install dependencies:
@@ -174,7 +174,7 @@ git init
 git add .
 git commit -m "Initial publish-ready package"
 git branch -M main
-git remote add origin https://github.com/darken/ComfyUI-darkHUB-Seedream4.5.git
+git remote add origin https://github.com/Cyber05CC/ComfyUI-darkHUB-Seedream4.5.git
 git push -u origin main
 ```
 
